@@ -1,5 +1,8 @@
 # ポートフォリオ
 
+## ブログ
+- [qiita](https://qiita.com/akisatoon)
+
 ## 見てほしいもの
 ### Youtubeを便利にする拡張機能
 [詳しい解説はこちら](https://github.com/akisatoon1/portfolio/blob/main/docs/preventYT.md)
