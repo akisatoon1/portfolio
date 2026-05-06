@@ -1,5 +1,13 @@
 # ポートフォリオ
 
+## NEW!!
+### ドローンの姿勢制御
+[repository url](https://github.com/akisatoon1/drone)
+
+ゲームコントローラーからドローンを操作するプログラムをunityで実装しました。プロペラから生まれる推力とトルクのみで、ドローンを動かしています。
+
+PID制御などの自分の知らなかったアルゴリズムを学べたので、とても面白かったです。
+
 ## ブログ
 - [qiita](https://qiita.com/akisatoon)
 
